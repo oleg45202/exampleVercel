@@ -25,7 +25,7 @@ SECRET_KEY = '*chyg3@4^p#5gmja+9pb^zki_q389mse1+(fng5ks+8@toyusu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS  = [ '.now.sh' ] # Разрешить * .now.sh
+ALLOWED_HOSTS  = ['*'] # Разрешить * .now.sh
 
 
 # Application definition
